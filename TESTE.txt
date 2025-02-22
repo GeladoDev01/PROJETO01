@@ -1,0 +1,7 @@
+Nome: Gustavo
+Idade: 20aaa
+
+GIT
+
+push - Envia os arquivos
+pull - trazer os arquivos
